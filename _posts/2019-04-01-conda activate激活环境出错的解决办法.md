@@ -42,5 +42,3 @@ source activate
 ```
 
 最后，重新执行`conda activate python36`，没有报错，成功进入该虚拟环境。
-source deactivate
-```
