@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      conda activate激活环境出错的解决办法.md
+title:      conda activate激活环境出错的解决办法
 subtitle:   Anaconda conda activate激活环境出错的解决办法
 date:       2019-04-01
 author:     Shengqiang Zhang
